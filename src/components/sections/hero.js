@@ -65,9 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I'm focused on building accessible, human-centered products
-        at SalientMinds for the product{' '}
+        I'm a software engineer specializing in building innovative tech solutions. From crafting
+        dynamic websites to designing robust backend systems, I thrive on solving coding challenges
+        with creativity and efficiency. Currently, I'm focused on building accessible,
+        human-centered products at SalientMinds for the product{' '}
         <a href="https://xnode.ai/" target="_blank" rel="noreferrer">
           Xnode AI
         </a>
