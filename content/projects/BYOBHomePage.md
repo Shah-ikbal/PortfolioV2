@@ -7,7 +7,7 @@ tech:
   - Next.js
   - Tailwind
   - Firebase
-company: 'BYOB'
+company: 'Mrikal Studios'
 showInProjects: true
 ---
 

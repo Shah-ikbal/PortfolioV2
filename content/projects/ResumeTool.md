@@ -9,7 +9,7 @@ tech:
   - Node.js
   - AWS DynamoDB
   - Google APIs
-company: 'BYOB'
+company: 'Mrikal Studios'
 showInProjects: true
 ---
 

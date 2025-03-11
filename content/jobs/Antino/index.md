@@ -7,6 +7,9 @@ range: 'December 2020 - January 2023'
 url: 'https://www.antino.com/'
 ---
 
-- Collaborated with designers and developers to make a full fledged Enterprise Resource Planning(ERP) portal for tracking workflows, products and their prices.
-- Helped build a robust system for SKU product management and role authorization, which contributed to raising $8,800,000 in series B funding for Eggoz.
-- Optimized the web app’s performance by using React’s inbuilt methods, removing unnecessary libraries and unused code.
+- Collaborated as a Front End Software Engineer with product managers, designers, and backend teams with a strong focus on UI/UX to deliver features aligned with business goals, ensuring timely project delivery.
+- Translated wireframes and mockups into fully functional and responsive ERP portal, improving operational efficiency by 40%.
+- Conducted thorough testing and debugging using Jest, achieving 95% test coverage and reducing production bugs by 30%.
+- Utilised Storybook for component documentation and testing, ensuring consistency across 50+ reusable components.
+- Validated and sanitized user input on the client-side using Yup to prevent Cross-Site Scripting (XSS) attacks.
+- Played an important role in the Leadership Team responsible for structured process for projects and code quality.
